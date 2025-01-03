@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Cao Xin</a> 👋
+Hi there, I'm <a href="https://caoxin.xyz/" target="_blank" rel="noreferrer">Cao Xin</a> 👋
 </h2>
 <h3 align="center">
 I'm a Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸!
