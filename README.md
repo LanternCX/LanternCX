@@ -9,6 +9,7 @@ I'm a Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸!
   <a href="https:/caoxin.xyz"><img align="left" src="https://raw.githubusercontent.com/LanternCX/LanternCX/refs/heads/main/images/caoxin.png" alt="Yu Shi | LinkedIn" width="36px"/></a>  <a href="https://x.com/LanternCX"><img align="left" src="https://raw.githubusercontent.com/LanternCX/LanternCX/refs/heads/main/images//x.png" alt="Yu Shi | Instagram" width="36px"/></a>  <a href="https://space.bilibili.com/453847656"><img align="left" src="https://raw.githubusercontent.com/LanternCX/LanternCX/refs/heads/main/images/bilibili.ico" alt="Yu Shi | Medium" width="36px"/></a>  <a href="https://codeforces.com/profile/LanternCX"><img align="left" src="https://raw.githubusercontent.com/LanternCX/LanternCX/refs/heads/main/images/codeforces.png" alt="Yu Shi | Medium" width="36px"/></a>
 </br>
 </br>
+<!--
 ## 🔭 I'm currently interested in
 
 ### Language
@@ -26,12 +27,14 @@ I'm a Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸!
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-#### Others
+### Others
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+-->
 
 ## 📈 GitHub Stats 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LanternCX&show_icons=true&theme=transparent)](https://github.com/LanternCX)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanternCX&layout=compact&theme=transparent)](https://github.com/LanternCX)
+
