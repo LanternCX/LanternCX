@@ -38,6 +38,6 @@ I'm a Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸!
 
 ## 📈 GitHub Stats 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LanternCX&show_icons=true&theme=transparent)](https://github.com/LanternCX)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanternCX&layout=compact&theme=transparent)](https://github.com/LanternCX)
+[![GitHub stats](https://github-readme-stats-lanterncx.vercel.app/api?username=LanternCX&show_icons=true&theme=transparent)](https://github.com/LanternCX)
+[![Top Langs](https://github-readme-stats-lanterncx.vercel.app/api/top-langs/?username=LanternCX&layout=compact&theme=transparent)](https://github.com/LanternCX)
 
