@@ -21,8 +21,6 @@ a Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 - [ZhiGrip](https://github.com/LanternCX/ZhiGrip) [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) [mpy-cli](https://github.com/LanternCX/mpy-cli) [MailBot](https://github.com/LanternCX/MailBot) [codex-gateway](https://github.com/LanternCX/codex-gateway) maintainer
 - [tw93/Kaku](https://github.com/tw93/Kaku) contributor
 
-<br>
-
 ---
 
 <a href="https://github.com/LanternCX">
