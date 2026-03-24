@@ -10,6 +10,8 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
   <a href="http://caoxin.xyz/" target="_blank">Blog (zh-CN)</a> · 
   <a href="https://x.com/LanternCX" target="_blank">X</a> · 
   <a href="https://space.bilibili.com/453847656" target="_blank">Bilibili</a> · 
+  <a href="https://t.me/lanterncx" target="_blank">Telegram</a> · 
+  <a href="https://www.zhihu.com/people/cdbxing-he" target="_blank">Zhihu</a> · 
   <a href="https://codeforces.com/profile/LanternCX" target="_blank">Codeforces</a>
 </div>
   
@@ -22,9 +24,9 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 <br>
 
 **About Me:** 
-- [@HZCU-Debug](https://github.com/HZCU-Debug) core member / team leader
-- [ZhiGrip](https://github.com/LanternCX/ZhiGrip) · [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) · [mpy-cli](https://github.com/LanternCX/mpy-cli) · [MailBot](https://github.com/LanternCX/MailBot) · [codex-gateway](https://github.com/LanternCX/codex-gateway) maintainer
-- [tw93/Kaku](https://github.com/tw93/Kaku) contributor
+- [@HZCU-Debug](https://github.com/HZCU-Debug) | core member / team leader
+- [ZhiGrip](https://github.com/LanternCX/ZhiGrip) · [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) · [mpy-cli](https://github.com/LanternCX/mpy-cli) · [MailBot](https://github.com/LanternCX/MailBot) · [codex-gateway](https://github.com/LanternCX/codex-gateway) | maintainer
+- [tw93/Kaku](https://github.com/tw93/Kaku) | contributor
 - ...
 
 ---
