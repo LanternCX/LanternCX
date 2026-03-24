@@ -27,6 +27,8 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 - [tw93/Kaku](https://github.com/tw93/Kaku) | contributor
 - ...
 
+<br>
+
 ---
 
 <a href="https://github.com/LanternCX">
