@@ -17,7 +17,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
   
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LanternCX">
   <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=LanternCX&theme=transparent" />
 </a>
 
