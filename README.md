@@ -21,8 +21,6 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
   <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=LanternCX&theme=transparent" />
 </a>
 
-<br>
-
 **About Me:** 
 - [@HZCU-Debug](https://github.com/HZCU-Debug) | core member / team leader
 - [ZhiGrip](https://github.com/LanternCX/ZhiGrip) · [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) · [mpy-cli](https://github.com/LanternCX/mpy-cli) · [MailBot](https://github.com/LanternCX/MailBot) · [codex-gateway](https://github.com/LanternCX/codex-gateway) | maintainer
@@ -32,7 +30,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 ---
 
 <a href="https://github.com/LanternCX">
-  <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanternCX&theme=transparent&layout=donut&langs_count=8&card_width=400&hide=javascript,html,css,php&size_weight=0.5&count_weight=0.5" />
+  <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanternCX&theme=transparent&layout=compact&langs_count=8&card_width=400&hide=javascript,html,css,php&size_weight=0.5&count_weight=0.5" />
   <!-- <img align=right valgn=top src="https://skillicons.dev/icons?i=c,cpp,python,java,vue,go,linux,opencv,arduino,vscode,markdown,github&perline=4" /> -->
 </a>
 
