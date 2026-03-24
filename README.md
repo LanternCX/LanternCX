@@ -33,7 +33,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 
 - Robotics
 - Embedded Development
-- Agent Development
+- Harness Engineering
 - Frontend / Backend
 - ...
 
