@@ -18,7 +18,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 <br>
 
 <a href="https://github.com/LanternCX">
-  <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=LanternCX&theme=transparent" />
+  <img height="300" width="400" align="right" src="https://github-readme-stats-lanterncx.vercel.app/api?username=LanternCX&theme=transparent" />
 </a>
 
 **About Me:** 
@@ -32,7 +32,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 ---
 
 <a href="https://github.com/LanternCX">
-  <img height="300" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanternCX&theme=transparent&layout=compact&langs_count=8&card_width=400&hide=javascript,html,css,php&size_weight=0.5&count_weight=0.5" />
+  <img height="300" width="400" align="right" src="https://github-readme-stats-lanterncx.vercel.app/api/top-langs?username=LanternCX&theme=transparent&layout=compact&langs_count=8&card_width=400&hide=javascript,html,css,php&size_weight=0.5&count_weight=0.5" />
   <!-- <img align=right valgn=top src="https://skillicons.dev/icons?i=c,cpp,python,java,vue,go,linux,opencv,arduino,vscode,markdown,github&perline=4" /> -->
 </a>
 
