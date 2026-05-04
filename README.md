@@ -25,7 +25,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 **About Me:** 
 - [@HZCU-Debug](https://github.com/HZCU-Debug) | core member & team leader
 - [ZhiGrip](https://github.com/LanternCX/ZhiGrip) · [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) · [mpy-cli](https://github.com/LanternCX/mpy-cli) | maintainer
-- [tw93/Kaku](https://github.com/tw93/Kaku) | contributor
+- [tw93/Kaku](https://github.com/tw93/Kaku) · [tw93/Kaku](https://github.com/farion1231/cc-switch) | contributor
 - ...
 
 <br>
