@@ -26,7 +26,7 @@ A Student 🎓 , Developer 💻, Runner 🏃, Photographer 📸
 - [@HZCU-Debug](https://github.com/HZCU-Debug) | core member
 - [ZhiGrip](https://github.com/LanternCX/ZhiGrip) · [SmartCar2026](https://github.com/LanternCX/SmartCar2026-TransportCar) · [SmartCar2025](https://github.com/LanternCX/SmartCar2025-Main) | author
 - [mpy-cli](https://github.com/LanternCX/mpy-cli) · [micropython-smartcar-stubs](https://github.com/LanternCX/micropython-smartcar-stubs) | maintainer
-- [tw93/Kaku](https://github.com/tw93/Kaku) · [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | contributor
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) · [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | contributor
 - ...
 
 <br>
